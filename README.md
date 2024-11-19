@@ -1,7 +1,4 @@
 # fit-lab-12
-Better spam filters … Now Drive automatically moves suspicious files shared with you to spam. You can still report spam on your own.Learn more
-Simple calculator that performs basic arithmetic operations
-Here is a `README.md` file documenting the project, including instructions for running the calculator and a summary of the Git commands used:
 
 Simple Calculator
 
